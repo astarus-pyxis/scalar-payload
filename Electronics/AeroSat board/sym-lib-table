@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RLS-126")(type "KiCad")(uri "${KIPRJMOD}/libs/RLS-126/RLS-126.kicad_sym")(options "")(descr ""))
+  (lib (name "R-78E5.0-0.5")(type "KiCad")(uri "${KIPRJMOD}/libs/R-78E5.0-0.5/R-78E5.0-0.5.kicad_sym")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/libs/RPi_Pico/RPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "LoRa_Module")(type "KiCad")(uri "${KIPRJMOD}/libs/LoRa_module/LoRa_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "LS20031")(type "KiCad")(uri "${KIPRJMOD}/libs/LS20031_GPS/LS20031.kicad_sym")(options "")(descr ""))
+  (lib (name "PMS5003")(type "KiCad")(uri "${KIPRJMOD}/libs/PMS5003/PMS5003.kicad_sym")(options "")(descr ""))
+  (lib (name "DMG2305UX-13")(type "KiCad")(uri "${KIPRJMOD}/libs/DMG2305UX-13/DMG2305UX-13.kicad_sym")(options "")(descr ""))
+)
