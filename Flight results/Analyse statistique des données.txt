@@ -1,0 +1,15 @@
+SiPM
+Moyenne: 70.45833856694263
+Variance: 12952.582269330227
+Écart-type: 113.80941204193186
+Quartiles: Q1=21.5, Médiane=35.26, Q3=80.08
+Minimum: 15.29
+Maximum: 2330.03
+
+ADC
+Moyenne: 253.69702160053288
+Variance: 33228.3162353008
+Écart-type: 182.28635778713885
+Quartiles: Q1=94.0, Médiane=207.0, Q3=384.0
+Minimum: 48
+Maximum: 1023
